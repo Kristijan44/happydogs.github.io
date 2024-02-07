@@ -5,15 +5,17 @@
         <link>https://kristijan44.github.io/happydogs.github.io/index.html</link>
         <description>Happy Dogs je profesionalni salon za negu vaših ljubimaca.</description>
         <lastBuildDate>Mon, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
-        
+    <item>
         <title>Pogledajte galeriju od klijenata!</title>
         <link>https://kristijan44.github.io/happydogs.github.io/gallery.html</link>
         <description>Galerija pasa iz salona.</description>
         <lastBuildDate>Mon, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
-        
+    </item>
+    <item>
         <title>Kontaktirajte nas!</title>
         <link>https://kristijan44.github.io/happydogs.github.io/contact.html</link>
         <description>Kontaktiranje može biti putem forme, pozivom na broj ili slanjem mejla.</description>
         <lastBuildDate>Mon, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+    </item>
     </channel>
 </rss>
