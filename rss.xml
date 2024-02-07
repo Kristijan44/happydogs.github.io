@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-    <item>
         <title>Posetite našu početnu stranu!</title>
         <link>https://kristijan44.github.io/happydogs.github.io/index.html</link>
         <description>Happy Dogs je profesionalni salon za negu vaših ljubimaca.</description>
@@ -16,6 +15,5 @@
         <link>https://kristijan44.github.io/happydogs.github.io/contact.html</link>
         <description>Kontaktiranje može biti putem forme, pozivom na broj ili slanjem mejla.</description>
         <lastBuildDate>Mon, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
-    </item>
     </channel>
 </rss>
