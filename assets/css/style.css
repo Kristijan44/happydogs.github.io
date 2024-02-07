@@ -443,6 +443,56 @@ textarea:focus{
     box-shadow: 2px 2px 7px;
 }
 
+#cover-about{
+    background-image: url(../img/about.jpg);
+    height: 400px;
+    background-size:cover;
+    background-color: rgb(165, 165, 165);
+    background-blend-mode: multiply;
+}
+#cover-about h1{
+    color:white;
+    animation: left_to_right 2s ease;
+    padding-top: 135px;
+    padding-left: 800px;
+    font-size: 75px;
+}
+.about{
+    width: 70%;
+    height: 400px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items:center;
+    flex-direction: row;
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: 2px solid #634c2d;
+    margin-top: 100px;
+}
+
+.contentbox1{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+}
+.contentbox1 h1{margin: 20px 100px 10px 120px;font-family: "Amatic SC", sans-serif; font-size: 40px;}
+.contentbox1 h2{margin-bottom: 10px;}
+.contentbox1 p{font-size: 18px;}
+.contentbox1 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 2px 15px;
+    border-style: groove;
+    padding: 3px;
+    transition: 0.5s;
+}
+.contentbox1 img:hover{
+    width: 310px;
+    height: 310px;
+}
+
 footer{
     bottom:0;
     position: static;
